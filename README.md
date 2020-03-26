@@ -16,12 +16,26 @@ npm install.
 You'd need to create a .env file to store environment variables.
 
 PORT =
+
+
 SMTP_SERVER=
+
+
 SMTP_PORT=
+
+
 SMTP_USER=
+
+
 SMTP_PASS=
+
+
 JWT=
+
+
 MONGO_DB_URL=
+
+
 
 
 Setup the above credentials, and you're good to go.
